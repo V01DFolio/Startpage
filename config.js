@@ -161,20 +161,20 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
+					name: 'Github',
+					link: 'https://github.com',
 				},
 				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
+					name: 'Localhost',
+					link: 'localhost:5173/',
 				},
 				{
 					name: 'Trello',
 					link: 'https://www.trello.com',
 				},
 				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
+					name: 'Downloader',
+					link: 'https://en.savefrom.net/391GA/',
 				},
 			],
 		},
