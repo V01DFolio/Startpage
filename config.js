@@ -65,9 +65,9 @@ const CONFIG = {
 		},
 		{
 			id: '3',
-			name: 'Keep',
-			icon: 'trello',
-			link: 'https://keep.google.com',
+			name: 'Reddit',
+			icon: 'glasses',
+			link: 'https://reddit.com',
 		},
 		{
 			id: '4',
@@ -77,9 +77,9 @@ const CONFIG = {
 		},
 		{
 			id: '5',
-			name: 'Reddit',
-			icon: 'glasses',
-			link: 'https://reddit.com',
+			name: 'Keep',
+			icon: 'trello',
+			link: 'https://keep.google.com',
 		},
 		{
 			id: '6',
