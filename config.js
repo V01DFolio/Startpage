@@ -166,7 +166,7 @@ const CONFIG = {
 				},
 				{
 					name: 'Localhost',
-					link: 'localhost:5173/',
+					link: 'localhost:5173',
 				},
 				{
 					name: 'Trello',
