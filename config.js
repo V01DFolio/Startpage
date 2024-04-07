@@ -169,8 +169,8 @@ const CONFIG = {
 					link: 'localhost:5173/',
 				},
 				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
+					name: 'Figma',
+					link: 'https://www.figma.com',
 				},
 				{
 					name: 'Downloader',
