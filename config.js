@@ -147,8 +147,8 @@ const CONFIG = {
 					link: 'https://sheets.google.com',
 				},
 				{
-					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Tableau',
+					link: 'https://public.tableau.com/',
 				},
 				{
 					name: 'Rock',
