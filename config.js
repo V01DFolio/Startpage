@@ -173,8 +173,8 @@ const CONFIG = {
 					link: 'https://www.figma.com',
 				},
 				{
-					name: 'Downloader',
-					link: 'https://en.savefrom.net/391GA/',
+					name: 'LinkedIn',
+					link: 'https://linkedin.com',
 				},
 			],
 		},
