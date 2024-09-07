@@ -151,8 +151,8 @@ const CONFIG = {
 					link: 'https://public.tableau.com/',
 				},
 				{
-					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'RobinHood',
+					link: 'https://robinhood.com/us/en/',
 				},
 			],
 		},
