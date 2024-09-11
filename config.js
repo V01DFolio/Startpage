@@ -151,8 +151,8 @@ const CONFIG = {
 					link: 'https://public.tableau.com/',
 				},
 				{
-					name: 'RobinHood',
-					link: 'https://robinhood.com/us/en/',
+					name: 'Bucks',
+					link: 'https://www.swagbucks.com/',
 				},
 			],
 		},
